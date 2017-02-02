@@ -24,3 +24,5 @@ To run the scripts you just type:
 python script_name.py
 ```
 As result of execution the reached accuracy will print
+
+* the dataset can be found [here](https://www.kaggle.com/uciml/breast-cancer-wisconsin-data)
